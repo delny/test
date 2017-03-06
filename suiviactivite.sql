@@ -58,18 +58,6 @@ CREATE TABLE `taches` (
 -- Contenu de la table `taches`
 --
 
-INSERT INTO `taches` (`id`, `description`, `id_colonne`) VALUES
-(1, 'Modifier la page d''accueil en ajoutant des choses super importantes', 4),
-(2, 'Ajouter une fonction pour se connecter car c''est super important', 1),
-(3, 'changer le fond d''écran et en mettre un plus mieux', 1),
-(4, 'Pouvoir ajouter une tache avec super bouton d''ajout de taches', 4),
-(5, 'Afficher la liste des colonnes avec leurs noms', 2),
-(6, 'créer l''arborescence des dossiers pour bien ranger les fichiers', 4),
-(7, 'Corriger le bug qui fait tout planter !!', 2),
-(8, 'correction du deuxième bug a faire très rapidement', 3),
-(14, 'nouvelle tache', 3),
-(15, 'mettre a jour le design', 1);
-
 --
 -- Index pour les tables exportées
 --
